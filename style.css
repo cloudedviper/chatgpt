@@ -14,9 +14,13 @@ header {
 	align-items: center;
 }
 
+h2 {
+	color: red;
+}
+
 #about-me {
 	font-style: normal;
-	color: rgb(3, 220, 14);
+	color: rgb(224, 244, 14);
 }
 
 nav ul {
